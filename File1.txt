@@ -4,7 +4,13 @@ Hello World!!!
 Change 1 :- added for login feature.
 Change 2 :- done by teammate for WI3.
 
+<<<<<<< HEAD
 Change 3 :- for the bug2.
 Change 4 :- WI6
 Change 5 :- by team mate on remote master for bug3
+=======
+Change :- for the bug2.
+Change :- WI6
+Change :- on local master for WI7.
+>>>>>>> 199c14a (WI7:File1 updated new line added on local master)
 
