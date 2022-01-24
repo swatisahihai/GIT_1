@@ -1,9 +1,10 @@
 Hello World!!!
 
 
-Change :- added for login feature.
-Change :- done by teammate for WI3.
+Change 1 :- added for login feature.
+Change 2 :- done by teammate for WI3.
 
-Change :- for the bug2.
-Change :- WI6
+Change 3 :- for the bug2.
+Change 4 :- WI6
+Change 5 :- by team mate on remote master for bug3
 
